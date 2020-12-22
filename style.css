@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  height:100%;
+  width:100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.name {
+  text-align: center;
+}
+.subheading {
+  text-align: center;
+}
+#about {
+  background-color: #fef6e4;
+}
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #001858;
+}
+.first-name {
+  color: #f44336;
+}
+.last-name {
+  color: #ab47bc;
+}
+.subheading {
+  font-size: x-large;
+}
+.center_icons {
+  position: relative;
+  left: 40%;
+  right: 40%;
+}
+.social-icon {
+  position: relative;
+  font-size: 2.13em;
+  padding: 20px;
+}
+.icon:hover {
+  color: black;
+}
+.color-bars {
+  background-color: #e040fb;
+}
+.bar-styling {
+  height: 10px;
+  max-width: 350px;
+  margin-top: 15px;
+}
+.heading-text
+{
+  text-align: center;
+  color:#18FFFF;
+}
+.heading-text::first-letter
+{
+  color:#F50057;
+}
+.skills-name
+{
+  color:#2979FF;
+  text-align: center;
+}
+.education_card
+{
+  max-width: 450px;
+  margin:auto;
+  background-color: #3da9fc;
+}
+.education_card_body
+{
+  background-color: #faeee7;
+}
+footer
+{
+  text-align: center;
+  background-color: #0f0e17;
+  color:#ff8906;
+}
+.outro-text
+{
+  font-family:'Open Sans Condensed',sans-serif;
+  text-align: center;
+}
